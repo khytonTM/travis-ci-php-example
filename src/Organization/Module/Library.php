@@ -4,6 +4,6 @@ class Library
 {
   public function whatAmI()
   {
-    return 'not an example';
+    return 'an example';
   }
 }
